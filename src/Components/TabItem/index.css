@@ -1,0 +1,29 @@
+.tabItem {
+  color: #ffffff;
+  font-family: 'Roboto';
+  padding-bottom: 10px;
+  align-self: center;
+  margin-bottom: 0px;
+}
+
+.tab-buttons {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  margin: 0px;
+  padding: 0px;
+}
+
+.list-item {
+  list-style-type: none;
+  margin-right: 14px;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+  cursor: pointer;
+}
+
+.active-margin {
+  border-bottom: 2px solid #fec653;
+  color: #fec653;
+}

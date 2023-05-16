@@ -1,0 +1,15 @@
+.images {
+  height: 70px;
+  width: 70px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.small-images-buttons {
+  background-color: transparent;
+  border: none;
+  margin: 0px;
+  padding: 0px;
+  outline: none;
+}

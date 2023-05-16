@@ -13,3 +13,10 @@
   padding: 0px;
   outline: none;
 }
+
+@media screen and (min-width: 765px) {
+  .images {
+    height: 90px;
+    width: 90px;
+  }
+}
